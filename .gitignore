@@ -1,0 +1,11 @@
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Ignore PDF files
+*.pdf
+
+# Ignore Docker files
+*.tar
