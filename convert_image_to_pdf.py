@@ -35,3 +35,4 @@ if __name__ == "__main__":
 
     convert_image_to_pdf(image_path, output_pdf)
     print(f"PDF saved as {output_pdf}")
+
